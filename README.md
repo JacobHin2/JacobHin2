@@ -20,6 +20,7 @@ Website: coming soon
 ---
 ### Currently Working On:
 - A simple file organiser - keepclean.
+- I think I'm helping to port a Zig book to mdbook?
 - By extension, some sort of terminal menu library for TUI input.
 
 ---
